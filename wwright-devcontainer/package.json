@@ -6,7 +6,7 @@
   "dependencies": {
     "cypress": "^6.4.0",
     "faker": "^5.3.1",
-    "lodash": "^4.17.20"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {},
   "scripts": {
